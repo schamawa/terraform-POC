@@ -7,7 +7,7 @@ resource "aws_instance" "dummy" {
   instance_type = "t2.micro"
 
 
-tags {
+tags = {
  name       = "instance"
  envirnment = "test"
 

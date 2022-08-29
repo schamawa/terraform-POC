@@ -1,13 +1,13 @@
 # Local .terraform directories
 **/.terraform/*
-vpc/**/.terraform/*
+abc/**/.terraform/*
 
 
 # .tfstate files
 *.tfstate
 *.tfstate.*
-vpc/*.tfstate
-
+abc/*.tfstate
+abc/*.tfstate.*
 
 
 # Crash log files

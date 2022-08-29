@@ -6,6 +6,7 @@ vpc/**/.terraform/*
 # .tfstate files
 *.tfstate
 *.tfstate.*
+vpc/*.tfstate
 
 
 
